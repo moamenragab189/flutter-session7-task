@@ -14,6 +14,7 @@ This single-screen app includes:
 ## Preview
 
 ![My App Screenshot](screenshots/my-screen.png)
+<img width="609" height="1134" alt="image" src="https://github.com/user-attachments/assets/bb8366cb-c014-4a8c-a35f-ffa2d6cce9c6" />
 
 ## Technologies Used
 
