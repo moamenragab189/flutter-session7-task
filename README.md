@@ -13,7 +13,7 @@ This single-screen app includes:
 
 ## Preview
 
-![App Preview](scenshots/screen.png)
+![App Preview](screenshots/screenshots/screen.png)
 
 ## Technologies Used
 
